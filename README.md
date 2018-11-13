@@ -2,9 +2,11 @@
 
 App Store Analysis
 
-# Datset Used
-- Shakespeare Plays : https://www.kaggle.com/kingburrito666/shakespeare-plays
--- It contains data from Shakespeare's plays such as Play, player, Player Line and Act
+# Datsets Used
+https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps#AppleStore.csv
+
+https://www.kaggle.com/lava18/google-play-store-apps#googleplaystore.csv
+
 
 
 
