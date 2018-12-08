@@ -20,7 +20,7 @@ Its a suite of DataScience Projects.
 ![Data Columns](https://raw.githubusercontent.com/nareshkumar66675/Appomania/master/reports/Images/DataColns.png)
 
 
-# Story Telling
+# InfoGraphics
 - Below images shows the Infographics about the dataset(Created using Canva).
 
 | ![Google InfoGraphics](https://raw.githubusercontent.com/nareshkumar66675/Appomania/master/reports/Viz/GoogleApp.png "Google InfoGraphics") | ![Apple Store](https://raw.githubusercontent.com/nareshkumar66675/Appomania/master/reports/Viz/iOS.png "Apple Store") | ![Comparison](https://raw.githubusercontent.com/nareshkumar66675/Appomania/master/reports/Viz/AndroidVSiOS.png "Comparison") |
