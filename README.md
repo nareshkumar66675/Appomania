@@ -1,6 +1,7 @@
 # AppoMania
 
-Its a suite of DataScience Projects.
+- Its a suite of DataScience Projects.
+- Link to Presentation Slides - https://github.com/nareshkumar66675/Appomania/blob/master/reports/AppoMania.pdf
 
 
 # What it Does?
