@@ -1,0 +1,5 @@
+- **Classification** - Genre and Content Classification using Description
+- **Clustering** - Cluster Apps based on User Review
+- **Regression** - Predict the Ratings and Price
+- **Anomaly** - Finds the anomalies in the rating
+- **Recommender** - Recommends apps based on the current user apps.
